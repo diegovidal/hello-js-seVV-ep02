@@ -1,0 +1,26 @@
+{
+  "name": "hello-js-sevv-ep02",
+  "version": "1.0.0",
+  "description": "my fancy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegovidal/https-github.com-diegovidal-hello-js-seVV-ep02.git"
+  },
+  "keywords": [
+    "treinamento",
+    "hello-js"
+  ],
+  "author": "Diego Vidal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegovidal/https-github.com-diegovidal-hello-js-seVV-ep02/issues"
+  },
+  "homepage": "https://github.com/diegovidal/https-github.com-diegovidal-hello-js-seVV-ep02#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
